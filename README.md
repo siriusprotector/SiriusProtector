@@ -1,6 +1,7 @@
-### [[https://cdn.discordapp.com/attachments/1068273316118409257/1070344879294644314/Screenshot_1.png|alt=octocat]]
-[[https://cdn.discordapp.com/attachments/1068273316118409257/1070344878929756340/Screenshot_2.png|alt=octocat]]
-[[https://cdn.discordapp.com/attachments/1068273316118409257/1070344878707462245/Screenshot_3.png|alt=octocat]]
+![alt text](https://cdn.discordapp.com/attachments/1068273316118409257/1070344879294644314/Screenshot_1.png?raw=true)
+![alt text](https://cdn.discordapp.com/attachments/1068273316118409257/1070344878929756340/Screenshot_2.png?raw=true)
+![alt text](https://cdn.discordapp.com/attachments/1068273316118409257/1070344878707462245/Screenshot_3.png?raw=true)
+
 
 
 <!--
